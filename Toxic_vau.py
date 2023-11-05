@@ -1,2 +1,1 @@
-import TRXX
-TRXX.Toxic()
+import os
